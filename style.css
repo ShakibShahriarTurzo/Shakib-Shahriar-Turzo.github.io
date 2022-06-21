@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+.sidebar{
+    height: 500px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 390px;  
+    background-color: #1a1a1a;      
+}
+.photo{
+    background-image: url("Photo/Photo0343\ \(3\).jpg");
+    border: 8px solid rgb(255, 199, 46);
+    margin-top: 72px;
+    width:11rem;
+    margin-left: 24%;
+    height: 11rem;
+    border-radius: 50%;
+    background-size: cover;
+}
+.name{
+    color: white;
+    margin-top: 0px;
+    margin-left: 25px;
+    font-size: 28.5px;
+    font-family:  Source Sans Pro Black;
+}
+    .click{
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: 10px;
+    color: white;
+    font-family: Arial Black;
+}
